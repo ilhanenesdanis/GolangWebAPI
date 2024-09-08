@@ -1,0 +1,14 @@
+[
+    {
+        "UserID":1,
+        "InterestID":1
+    },
+    {
+        "UserID":2,
+        "InterestID":3
+    },
+    {
+        "UserID":3,
+        "InterestID":2
+    }
+]
